@@ -27,7 +27,7 @@ npm start
 ```sh
 yarn start
 ```
-#Что было использовано
+# Что было использовано
 - React.JS
 - Saas
 - Firebase
